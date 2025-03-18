@@ -17,7 +17,7 @@
    - Apply statistical methods using R.
    - Interpret data and draw meaningful conclusions.
    
-[STATS 220 Course Page]((https://canvas.auckland.ac.nz/courses/121734))
+[STATS 220 Course Page](https://canvas.auckland.ac.nz/courses/121734)
 
 A meme that captures how I currently feel about my university studies is ![aaa](https://media.tenor.com/l700be2yNp0AAAAM/shocked-surprised.gif)
 
